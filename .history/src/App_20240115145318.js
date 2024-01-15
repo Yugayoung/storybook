@@ -7,8 +7,8 @@ function App() {
       <header className='App-header'>
         <img src={logo} className='App-logo' alt='logo' />
         <p>
-          Edit 확실하게 진짜 이제 깃 다 된건가요??? -가영 -영진-{' '}
-          <code>src/App.js</code> and save to reload.
+          Edit 확실하게 하라고 진짜 이제 깃 다 된건가요 <code>src/App.js</code>{' '}
+          and save to reload.
         </p>
         <a
           className='App-link'
